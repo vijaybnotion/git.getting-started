@@ -26,7 +26,6 @@ This site features a list of ressources you can use to find the knowledge necess
 https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 The following sources should be especially useful:
-- The Wiki Page on git located at our sharepoint knowledge base: https://sharepoint.uni-kl.de/fb/agwehn/kb/SitePages/Tools%20Git.aspx
 - using git in practice
   - https://guides.github.com/
     - Understanding Github-Flow
