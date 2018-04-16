@@ -1,32 +1,33 @@
-# exampleCourse
-example course for an Introduction into Basic Github functionality as part of the Course FPGA Hybrid Systems.
+# git.getting-started
+training repository for basic GitHub functionality 
 
 ## Introduction
-Throughout the Course we will use git to manage the Lab. You will need to understand the basics usage of git so you are able to turn in your lab assignments.
+Throughout the course, we will use Git - an industry standard version control software - for managing the lab. You need to understand the basics usage of Git for successfully carrying out the lab.
 
 ## Tasks
-1. Fork this Repository
-2. Copy your newly created Repository to the Computer you work on.
-3. Create a commit.
-4. Create an Issue in your Repository.
-5. Create a new branch.
+1. Fork this repository
+2. Clone the forked repository to your computer or the development server.
+3. Create a test commit (add a new file or modify a file before).
+4. Create an issue for your repository on GitHub.
+5. Create a new branch named "development" and commit into this branch.
 6. Merge two branches with conflicting contents.
-7. Synchronize your local changes with your Repository on the git server.
-8. Create a Pull Request to this Repository
+7. Synchronize your local changes with your repository on GitHub.
+8. Create a pull request to this master repository on GitHub.
+
 
 ## Additional Knowledge, Theory
-1. Understand the concept of Branches and how they can be used in large Projects.
-2. Learn about distributed Workflows for collaboration in (large) projects.
-  - centralized Workflows
-  - decentralized Workflows
+1. Understand the concept of branches and how they can be used in projects.
+2. Learn about distributed workflows for collaboration in projects.
+  - Centralized workflows
+  - Decentralized workflows
 
 ## Ressources
-There are many Tutorials, Introductions and Wikis on git all around the Internet.
+There are many tutorials, introductions and Wikis for getting started with Git available online.
 This site features a list of ressources you can use to find the knowledge necessary for this course.
 https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 The following sources should be especially useful:
-- using git in practice
+- using Git in practice
   - https://guides.github.com/
     - Understanding Github-Flow
     - Hello World
@@ -38,8 +39,8 @@ The following sources should be especially useful:
   - http://nvie.com/posts/a-successful-git-branching-model/
 
 Note:
-There are Graphical User Interfaces (GUIs) supporting git for all Platforms maing the first steps a bit easier.
-Here is a list of GUI Clients for different Operating Systems:
+There are Graphical User Interfaces (GUIs) supporting Git for all platforms maing the first steps a bit easier.
+Here is a list of GUI clients for different operating systems:
 https://git-scm.com/downloads/guis
 
-Currently gitk is the only gui-program for git installed on our Development Server.
+Currently, only gitk is installed on the development server.
